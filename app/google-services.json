@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "538228537202",
+    "firebase_url": "https://crytoapp-feb4f.firebaseio.com",
+    "project_id": "crytoapp-feb4f",
+    "storage_bucket": "crytoapp-feb4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538228537202:android:ddee643a87d37369a30feb",
+        "android_client_info": {
+          "package_name": "com.devproject.miguelfagundez.cryptoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538228537202-o410lihph8rsnlkq4mvldbof34j0rgsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk6TVPJG9ozSwv31S56exUmUreu-XVcyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538228537202-o410lihph8rsnlkq4mvldbof34j0rgsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
